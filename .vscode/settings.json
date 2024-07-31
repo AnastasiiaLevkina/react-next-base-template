@@ -1,2 +1,5 @@
 {
+    "standard.options": {
+    "env" : ["jest"]
+  }
 }
